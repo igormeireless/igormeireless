@@ -3,7 +3,6 @@
 🚀 Junior and student fullstack developer
 
 #### My current tools 
-📲 Front-end Mobile with React Native  
 🌎 Front-end Web with React  
 📡 Back-end with Node.js  
 🛠️ Typescript  
