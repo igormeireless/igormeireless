@@ -10,7 +10,7 @@
 
 #### 💬 Find me elsewhere
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/igormeireless/)](https://www.linkedin.com/in/rodrigo-goncalves-santana/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/igormeireless/)](https://www.linkedin.com/in/igormeireless/) 
 [![Gmail Badge](https://img.shields.io/badge/-igor.meireles.dev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:igor.meireles.dev@gmail.com)](mailto:igor.meireles.dev@gmail.com)
 
 <!--
