@@ -2,12 +2,12 @@
 
 - 🔥 Junior and student fullstack developer
 
-### 🛠 Tech Stack
+### My current tools
 
-🌎 Front-end Web with ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;  
-📡 Back-end with ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;  
-🛠️ ![Typescript](https://img.shields.io/badge/-typscript-05122A?style=flat&logo=typscript)&nbsp;  
-🧰 And more... 
+🌎 Front-end Web with React
+📡 Back-end with Node.js
+🛠️ Typescript
+🧰 And more...
 
 #### 💬 Find me elsewhere
 
