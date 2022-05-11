@@ -1,16 +1,13 @@
-### Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Igor Meireles
+## Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Igor Meireles
 
 - 🔥 Junior and student fullstack developer
 
-## 🛠 &nbsp;Tech Stack
+### 🛠 Tech Stack
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+🌎 Front-end Web with ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;  
+📡 Back-end with ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;  
+🛠️ ![Typescript](https://img.shields.io/badge/-typscript-05122A?style=flat&logo=typscript)&nbsp;  
+🧰 And more... 
 
 #### 💬 Find me elsewhere
 
