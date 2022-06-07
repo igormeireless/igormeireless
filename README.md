@@ -1,4 +1,4 @@
-## Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Igor
+## Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="20px">, I'm Igor
 
 🚀 Junior and student fullstack developer
 
