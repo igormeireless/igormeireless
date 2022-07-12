@@ -13,7 +13,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/igormeireless/)](https://www.linkedin.com/in/igormeireless/) 
 [![Gmail Badge](https://img.shields.io/badge/-igor.meireles.dev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:igor.meireles.dev@gmail.com)](mailto:igor.meireles.dev@gmail.com)
 
-![stats](https://github-readme-stats.vercel.app/api?username=igormeireless&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+![stats](https://github-readme-stats.vercel.app/api?username=igormeireless&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
 
 <!--
 **igormeireless/igormeireless** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
