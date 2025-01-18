@@ -1,12 +1,15 @@
-## Hi 👋, I'm Igor
+## Hi there! 👋 Welcome to my GitHub
 
-🚀 Fullstack developer and student
+🚀 Web and Salesforce Developer with expertise in JavaScript, Node, React and Salesforce, focused on building efficient, scalable interfaces and custom solutions for the Salesforce ecosystem.
+🌟 Exploring the world of back-end development with Node.js (TypeScript) e Apex, creating robust APIs and seamless integrations with Salesforce.
+💡 Passionate about clean code practices, componentization, automation, and performance optimization.
+📚 Always eager to learn new technologies and contribute to innovative projects.
 
-#### My current tools 
-🌎 Front-end Web with React  
-📡 Back-end with Node.js  
-🛠️ Typescript  
-🧰 And more...  
+#### 🎯 Current stack:
+- Frontend: React, Next.js
+- Backend: Node.js, TypeScript
+- Salesforce: Admin, Apex, LWC, Visualforce, Flows, Omni Channel, Messaging, Einstein Bot
+- Tools: Docker, Jest, Prisma
 
 #### 💬 Find me elsewhere
 
