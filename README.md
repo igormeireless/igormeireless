@@ -1,8 +1,11 @@
 ## Hi there! 👋 Welcome to my GitHub
 
 🚀 Web and Salesforce Developer with expertise in JavaScript, Node, React and Salesforce, focused on building efficient, scalable interfaces and custom solutions for the Salesforce ecosystem.
+
 🌟 Exploring the world of back-end development with Node.js (TypeScript) e Apex, creating robust APIs and seamless integrations with Salesforce.
+
 💡 Passionate about clean code practices, componentization, automation, and performance optimization.
+
 📚 Always eager to learn new technologies and contribute to innovative projects.
 
 #### 🎯 Current stack:
