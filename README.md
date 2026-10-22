@@ -21,12 +21,12 @@ and I'm deepening my practice in software architecture and applied AI engineerin
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h4>☁️ Salesforce</h4>
-      Apex, Lightning Web Components, Visualforce and Flows. Customer service channels with Omni-Channel, Messaging and Einstein Bot.
-    </td>
-    <td width="33%" valign="top">
       <h4>🧩 Full-Stack Web</h4>
       React and Next.js on the front end. Node.js with TypeScript on the back end, including APIs and Salesforce integrations.
+    </td>
+    <td width="33%" valign="top">
+      <h4>☁️ Salesforce</h4>
+      Apex, Lightning Web Components, Visualforce and Flows. Customer service channels with Omni-Channel, Messaging and Einstein Bot.
     </td>
     <td width="33%" valign="top">
       <h4>🛠️ Engineering</h4>
