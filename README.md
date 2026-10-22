@@ -1,37 +1,60 @@
-## Hi there! 👋 Welcome to my GitHub
+<div align="center">
 
-🚀 Web and Salesforce Developer with expertise in JavaScript, Node, React and Salesforce, focused on building efficient, scalable interfaces and custom solutions for the Salesforce ecosystem.
+# Hi, I'm Igor 👋
 
-🌟 Exploring the world of back-end development with Node.js (TypeScript) e Apex, creating robust APIs and seamless integrations with Salesforce.
+### Software Engineer · Salesforce & Full-Stack TypeScript
 
-💡 Passionate about clean code practices, componentization, automation, and performance optimization.
+I build web interfaces and backend integrations for the Salesforce ecosystem,<br/>
+and I'm deepening my practice in software architecture and applied AI engineering.
 
-📚 Always eager to learn new technologies and contribute to innovative projects.
+📍 Aparecida de Goiânia, Brazil &nbsp;·&nbsp; 🌎 Open to international opportunities
 
-#### 🎯 Current stack:
-- Frontend: React, Next.js
-- Backend: Node.js, TypeScript
-- Salesforce: Admin, Apex, LWC, Visualforce, Flows, Omni Channel, Messaging, Einstein Bot
-- Tools: Docker, Jest, Prisma
+<a href="https://www.linkedin.com/in/igor-meireles-saraiva"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge" alt="LinkedIn"/></a>
+<a href="mailto:igor.meireles.dev@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hi-C14438?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
-#### 💬 Find me elsewhere
+</div>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/igormeireless/)](https://www.linkedin.com/in/igor-meireles-saraiva) 
-[![Gmail Badge](https://img.shields.io/badge/-igor.meireles.dev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:igor.meireles.dev@gmail.com)](mailto:igor.meireles.dev@gmail.com)
+---
 
-<!--![stats](https://github-readme-stats.vercel.app/api?username=igormeireless&show_icons=true&theme=dark&include_all_commits=true&count_private=true)-->
+## 🧭 What I do
 
-<!--
-**igormeireless/igormeireless** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h4>☁️ Salesforce</h4>
+      Apex, Lightning Web Components, Visualforce and Flows. Customer service channels with Omni-Channel, Messaging and Einstein Bot.
+    </td>
+    <td width="33%" valign="top">
+      <h4>🧩 Full-Stack Web</h4>
+      React and Next.js on the front end. Node.js with TypeScript on the back end, including APIs and Salesforce integrations.
+    </td>
+    <td width="33%" valign="top">
+      <h4>🛠️ Engineering</h4>
+      Clean code, componentization, automated testing and performance optimization.
+    </td>
+  </tr>
+</table>
 
-Here are some ideas to get you started:
+## 🧰 Tech stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs&perline=5" alt="Tech stack icons"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=flat-square" alt="Salesforce"/>
+  <img src="https://img.shields.io/badge/Apex-1798C1?style=flat-square" alt="Apex"/>
+  <img src="https://img.shields.io/badge/LWC-032D60?style=flat-square" alt="Lightning Web Components"/>
+</p>
+
+## 📚 Currently learning
+
+- 🎓 Postgraduate degree in **Software Engineering** · PUC Minas
+- 🤖 Postgraduate degree in **Applied AI Engineering** · Anhanguera
+- 🗣️ Professional English, aiming at fluency for international work
+
+---
+
+<div align="center">
+  <sub>Always building, always learning.</sub>
+</div>
